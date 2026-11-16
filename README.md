@@ -37,14 +37,6 @@ Sou estudante de **Engenharia de Sistemas Informáticos (LESI)** no **IPCA**. Ap
 
 ## 🚀 Projetos em Destaque
 
-* 🌐 **Plataforma Web EntArtes** — Aplicação web full-stack desenvolvida em C# .NET Web API e SQL Server com autenticação JWT e regras de negócio automatizadas.
-* 📊 **Pipeline ETL de Telemetria** — Sistema de integração de dados implementado com Pentaho Data Integration e PostgreSQL para processamento de ficheiros e dados meteorológicos em tempo real.
-* 📱 **FitCalc (App Android)** — Calculadora de IMC desenvolvida em Kotlin com Jetpack Compose e gestão de estados reativa.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tomascerqueiraa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+* 🌐 [**Plataforma Web EntArtes**](https://github.com/DevJoaoLoureiro/BackEnd--EntArtes) — Aplicação web full-stack desenvolvida em C# .NET Web API e SQL Server com autenticação JWT, regras de negócio automatizadas e gestão de horários.
+* 🍊 [**Sistema de Contagem e Classificação de Citrinos**](https://github.com/tomascerqueiraa/TP-Visao) — Software de Visão por Computador desenvolvido em C/C++ e OpenCV para processamento de vídeo em tempo real, segmentação de cor HSV, análise de blobs e controlo de qualidade de frutos.
+* 📊 [**Pipeline ETL de Telemetria**](https://github.com/tomascerqueiraa/TP---ISI) — Sistema de integração de dados implementado com Pentaho Data Integration e PostgreSQL para processamento de ficheiros e dados meteorológicos em tempo real.
